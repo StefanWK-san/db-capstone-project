@@ -1,2 +1,2 @@
 # db-capstone-project
-final project
+this is the final final project of this course
